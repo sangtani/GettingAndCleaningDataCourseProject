@@ -1,13 +1,11 @@
-++++++++++++++++++++++++++++++++++++++++++++++++
-++ Human Activity Recognition Using Smartphones
-++ Summary of means and standard deviations
-++ of sample data collected
-++++++++++++++++++++++++++++++++++++++++++++++++
-++ Sachin Sangtani
-++++++++++++++++++++++++++++++++++++++++++++++++
 
-run_analysis.R sources relevant signal data 
-collected from the dataset available at: 
+## Human Activity Recognition Using Smartphones
+### Summary of means and standard deviations of sample data collected
+
+### Sachin Sangtani
+
+## Script Overview
+run_analysis.R sources relevant signal data collected from the dataset available at: 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
